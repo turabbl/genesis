@@ -9,6 +9,8 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
 
+//Lokal Aciqlama Setri
+
     public GameObject gameOverPanel;
     public TextMeshProUGUI currentScoreText;
     public TextMeshProUGUI bestScoreText;
